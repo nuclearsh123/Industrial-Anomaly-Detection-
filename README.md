@@ -51,7 +51,9 @@ capsule
 hazelnut
 screw
 zipper
+```
 
+---
 
 # 🏭 Industrial Robustness Testing
 
@@ -279,3 +281,5 @@ If you found this project useful, consider giving it a star ⭐
 # 📜 License
 
 This project is intended for educational and research purposes.
+
+
