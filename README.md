@@ -52,17 +52,6 @@ hazelnut
 screw
 zipper
 
-### Categories Used
-
-```txt
-bottle
-capsule
-hazelnut
-screw
-zipper
-```
-
----
 
 # 🏭 Industrial Robustness Testing
 
